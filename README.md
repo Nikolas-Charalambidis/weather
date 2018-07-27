@@ -11,7 +11,7 @@ This web application localizes your current or searched position, receives the w
 
 ### [https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application)
 
-This is also my very first webpage created and published.
+This is also my very first webpage created at 2016 and now published.
 
 ## How it works?
 
@@ -30,6 +30,10 @@ The extracted latitude and longitude information is exctracted and passed to the
 - [Take a look](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/take-a-look.html) gives you an opportunity to see the current weather in any city in the world (which is available for the Weather API, however it usually refers to the closest bigger one).
 - [My places](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/my-places.html) stores the recently found places with these marked as a favourite ones on the previous subpages.
 - [About](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/about.html) offers a bried summary about the web application.
+
+## Quality check
+
+I have integrated [Codebeat](https://codebeat.co) and [Codacy](https://www.codacy.com) cloud static analysis services to check the overall code quality out of curiosity. 
 
 ## Licence
 

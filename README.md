@@ -6,7 +6,15 @@ It has been developed as a semestral work as a part of the course 4IZ268 Web Tec
 
 ## How it works?
 
-An asynchronous (AJAX) request is sent to the Localization API [`https://ipapi.co/json`](https://ipapi.co/json) which returns the information in JSON format. The extracted latitude and longitude information is exctracted and passed to the weather API with an API Key like [`https://api.openweathermap.org/data/2.5/weather?lat=0&lon=0&APPID=e523473ac8b78fc0eb0018a092bc08f5`](https://api.openweathermap.org/data/2.5/weather?lat=0&lon=0&APPID=e523473ac8b78fc0eb0018a092bc08f5), where `lat=0` is latitude of `0`, `lon=0` is longitude of 0 and `APPID=e523473ac8b78fc0eb0018a092bc08f5` is my "secret" API key which is required to work. This key should remain secret, however I don't mind to publish it for the educational purposes - feel free to try it out or generate the own key, but don't spam the requests programatically.
+### Localization API
+An asynchronous (AJAX) request is sent to the Localization API [`https://ipapi.co/json`](https://ipapi.co/json) which returns the information in JSON format. 
+
+### Weather API 
+The extracted latitude and longitude information is exctracted and passed to the weather API with an API Key as an asynchronous request by [`https://api.openweathermap.org/data/2.5/weather?lat=0&lon=0&APPID=e523473ac8b78fc0eb0018a092bc08f5`](https://api.openweathermap.org/data/2.5/weather?lat=0&lon=0&APPID=e523473ac8b78fc0eb0018a092bc08f5) with the following parameters:
+
+ - `lat=0` is latitude of `0`
+ - `lon=0` is longitude of 0 
+ - `APPID=e523473ac8b78fc0eb0018a092bc08f5` is my "secret" API key which is required to work. This key should remain secret, however I don't mind to publish it for the educational purposes - feel free to try it out or generate the own key, but don't spam the requests programatically.
 
 ## Subpages 
 - [Locate me](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/index.html) is the main page which localizes your current position and displays the weather information. You don't need to look out the window anymore!

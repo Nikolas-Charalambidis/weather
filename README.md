@@ -1,4 +1,4 @@
-# UNIB-4IZ268-Weather-web-application
+# UNIB-4IZ268 Weather web application
 
 This web application localizes your current or searched position, receives the weather data which is being displayed and visualised.
 

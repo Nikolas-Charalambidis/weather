@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>My places | Weather application</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="styles/face.css">
+		<link rel="stylesheet" type="text/css" href="styles/iconvault-small.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row col-xs-12">
+				<div class="col-xs-8 col-xs-offset-2 col-sm-offset-4">
+					<ul class="nav nav-pills">
+						<li role="presentation"><a href="index.html">Locate me</a></li>
+						<li role="presentation"><a href="take-a-look.html">Take a look</a></li>
+						<li role="presentation" class="active"><a href="my-places.html">My places</a></li>
+						<li role="presentation"><a href="about.html">About</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div class="heading container">
+			<div class="row col-sm-12">
+				<div class="col-sm-6 col-sm-offset-3">
+					<h1 class="lab-h1">My places</h1>
+				</div>
+			</div>
+		</div>
+		
+		<div class="myplaces container">
+			<div class="row col-sm-12">
+				<div class="col-md-6 col-xs-12">
+					<div class="col-xs-12">
+						<div class="col-xs-8">
+							<h2>Search history</h2>
+						</div>
+						<div class="col-xs-4">
+							<button type="button" class="btn btn-danger btn-clear btn-clear-history pull-right" data-toggle="tooltip" data-placement="bottom" title="Click to remove the search history"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear the history</button>
+						</div>
+					</div>
+					<div class="col-xs-12">
+						<div id="history"></div>
+					</div>
+				</div>
+				<div class="col-md-6 col-xs-12">
+					<div class="col-xs-12">
+						<div class="col-xs-8">
+							<h2>Favourites</h2>
+						</div>
+						<div class="col-xs-4">
+							<button type="button" class="btn btn-danger btn-clear btn-clear-favourite pull-right" data-toggle="tooltip" data-placement="bottom" title="Click to remove all favourite places"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Remove favourites</button>
+						</div>
+					</div>
+					<div class="col-xs-12">
+						<div id="favourites"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<script type="text/javascript" src="scripts/tooltip.js"></script>
+		<script type="text/javascript" src="scripts/myplaces.js"></script>
+	</body>
+
+</html>

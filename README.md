@@ -1,4 +1,4 @@
-# UNIB-4IZ268 Weather web application
+# [UNIB-4IZ268 Weather web application](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application)
 
 ![HTML-5](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS-3](https://img.shields.io/badge/CSS-3-blue.svg)

@@ -1,4 +1,4 @@
-# [UNIB-4IZ268 Weather web application](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application)
+# UNIB-4IZ268 Weather web application
 
 ![HTML-5](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS-3](https://img.shields.io/badge/CSS-3-blue.svg)
@@ -10,6 +10,8 @@
 This web application localizes your current or searched position, receives the weather data which is being displayed and visualised.
 
 It has been developed as a semestral work as a part of the course 4IZ268 Web Technologies.
+
+### [https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application)
 
 ## How it works?
 

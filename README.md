@@ -25,3 +25,27 @@ The extracted latitude and longitude information is exctracted and passed to the
 - [Take a look](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/take-a-look.html) gives you an opportunity to see the current weather in any city in the world (which is available for the Weather API, however it usually refers to the closest bigger one).
 - [My places](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/my-places.html) stores the recently found places with these marked as a favourite ones on the previous subpages.
 - [About](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/about.html) offers a bried summary about the web application.
+
+## Licence
+
+MIT License
+
+Copyright (c) 2018 Nikolas Charalambidis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

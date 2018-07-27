@@ -2,7 +2,6 @@
 
 ![HTML-5](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS-3](https://img.shields.io/badge/CSS-3-blue.svg)
-![Bootstrap-3](https://img.shields.io/badge/bootstrap-3-563a7d.svg)
 ![jQuery-3](https://img.shields.io/badge/jQuery-3-blue.svg)
 [![codebeat badge](https://codebeat.co/badges/a60d5166-cfc9-42b0-b886-6267f670096c)](https://codebeat.co/projects/github-com-nicharnet-unib-4iz268-weather-web-application-master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d6a7e87601244174a62512b9a3e7fe30)](https://www.codacy.com/app/NicharNET/UNIB-4IZ268-Weather-web-application?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NicharNET/UNIB-4IZ268-Weather-web-application&amp;utm_campaign=Badge_Grade)

@@ -11,7 +11,7 @@ This web application localizes your current or searched position, receives the w
 
 ### [https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application)
 
-This is also my very first webpage created at 2016 and now published.
+This is also my very first webpage created at 2016 and published now.
 
 ## How it works?
 

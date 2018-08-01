@@ -7,16 +7,35 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d6a7e87601244174a62512b9a3e7fe30)](https://www.codacy.com/app/NicharNET/UNIB-4IZ268-Weather-web-application?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NicharNET/UNIB-4IZ268-Weather-web-application&amp;utm_campaign=Badge_Grade)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/NicharNET/UNIB-4IZ268-Weather-web-application/blob/master/LICENSE)
 
+## [https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application)
+
 This web application localizes your current or searched position, receives the weather data which is being displayed and visualised. It has been developed as a semestral work as a part of the course 4IZ268 Web Technologies.
 
-### [https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application)
-
 This is also my very first webpage created at 2016 and published now.
+
+### Conventions
+
+UNIB-4IZ268-Weather-web-application
+ - `UNI` stands for the university project
+ - `B` stands for the bachelors' project
+ - `4IZ268` stands for the university course
+ - `Weather-web-application` stands for the semestral application/output name
+ 
+### Glossary
+
+For those who haven't encountered with the following elementarz terms yet:
+ - `API`: [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface) is a set of subroutine definitions, communication protocols, and tools.
+ - `AJAX`: [Asynchronous JavaScript and XML](https://en.wikipedia.org/wiki/Ajax_(programming)) is a set of the clien-side techniques to create asynchronous Web applications.
+ - `HTML`: [Hypertext Markap Language](https://en.wikipedia.org/wiki/HTML) is a standard markup language for creating web pages and web applications.
+ - `JavaScript`: [JavaScript](https://en.wikipedia.org/wiki/JavaScript) is an interpreted, weakly typed, prototype-based and multi-paradigm programming language.
+ - `JSON`: [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON) is a file format that uses human-readable text to transmit data objects.
+
+---
 
 ## How it works?
 
 ### Localization API
-An asynchronous (AJAX) request is sent to the Localization API [`https://ipapi.co/json`](https://ipapi.co/json) which returns the information in JSON format. 
+An AJAX request is sent to the Localization API [`https://ipapi.co/json`](https://ipapi.co/json) which returns the information in JSON format. 
 
 ### Weather API 
 The extracted latitude and longitude information is exctracted and passed to the weather API with an API Key as an asynchronous request by [`https://api.openweathermap.org/data/2.5/weather?lat=0&lon=0&APPID=e523473ac8b78fc0eb0018a092bc08f5`](https://api.openweathermap.org/data/2.5/weather?lat=0&lon=0&APPID=e523473ac8b78fc0eb0018a092bc08f5) with the following parameters:

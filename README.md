@@ -7,6 +7,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d6a7e87601244174a62512b9a3e7fe30)](https://www.codacy.com/app/NicharNET/UNIB-4IZ268-Weather-web-application?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NicharNET/UNIB-4IZ268-Weather-web-application&amp;utm_campaign=Badge_Grade)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/NicharNET/UNIB-4IZ268-Weather-web-application/blob/master/LICENSE)
 
+<img align="left" height="113.176" width="126" top="50" src="http://i67.tinypic.com/2ly64qw.png" border="0">
+
 ## [https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application)
 
 This web application localizes your current or searched position, receives the weather data which is being displayed and visualised. It has been developed as a semestral work as a part of the course 4IZ268 Web Technologies.

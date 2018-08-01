@@ -30,8 +30,6 @@ For those who haven't encountered with the following elementarz terms yet:
  - `JavaScript`: [JavaScript](https://en.wikipedia.org/wiki/JavaScript) is an interpreted, weakly typed, prototype-based and multi-paradigm programming language.
  - `JSON`: [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON) is a file format that uses human-readable text to transmit data objects.
 
----
-
 ## How it works?
 
 ### Localization API

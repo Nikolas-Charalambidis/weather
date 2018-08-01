@@ -16,10 +16,10 @@ This is also my very first webpage created at 2016 and published now.
 ### Conventions
 
 UNIB-4IZ268-Weather-web-application
- - `UNI` stands for the university project
- - `B` stands for the bachelors' project
- - `4IZ268` stands for the university course
- - `Weather-web-application` stands for the semestral application/output name
+ - `UNI` stands for the university project which is no longer under development after the submission date.
+ - `B` stands for the bachelors' project which is published years after in the state of the submission date.
+ - `4IZ268` stands for the university course of [FIS](https://fis.vse.cz/en/).
+ - `Weather-web-application` stands for the semestral application/output name.
  
 ### Glossary
 

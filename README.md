@@ -25,7 +25,7 @@ UNIB-4IZ268-Weather-web-application
  
 ### Glossary
 
-For those who haven't encountered with the following elementarz terms yet:
+For those who haven't encountered with the following elementary terms yet:
  - `API`: [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface) is a set of subroutine definitions, communication protocols, and tools.
  - `AJAX`: [Asynchronous JavaScript and XML](https://en.wikipedia.org/wiki/Ajax_(programming)) is a set of the clien-side techniques to create asynchronous Web applications.
  - `HTML`: [Hypertext Markap Language](https://en.wikipedia.org/wiki/HTML) is a standard markup language for creating web pages and web applications.

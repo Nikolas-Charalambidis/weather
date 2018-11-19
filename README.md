@@ -15,6 +15,8 @@ This web application localizes your current or searched position, receives the w
 
 This is also my very first webpage created at 2016 and published now. The webpage is hosted on GitHub Pages.
 
+:warning: The application has exceeded the request quota for the [Google Maps API](https://developers.google.com/maps/documentation/).
+
 ### Conventions
 
 UNIB-4IZ268-Weather-web-application

@@ -6,7 +6,7 @@
 
 <img align="left" height="113.176" width="126" top="50" src="http://i67.tinypic.com/2ly64qw.png" border="0">
 
-# 4IZ268 Web Technologies | Weather Web Application
+# 4IZ268 Web Technologies | Weather Application
 
 This web application localizes your current or searched position, receives the weather data which is being displayed and visualised. It has been developed as a semestral work as a part of the course 4IZ268 Web Technologies.
 

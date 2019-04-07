@@ -1,7 +1,6 @@
 ![HTML-5](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS-3](https://img.shields.io/badge/CSS-3-blue.svg)
 ![jQuery-3](https://img.shields.io/badge/jQuery-3-blue.svg)
-[![codebeat badge](https://codebeat.co/badges/86eb26a1-181f-4ecc-8c96-cdd2257f3be5)](https://codebeat.co/projects/github-com-nikolas-charalambidis-4iz268-master)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Nikolas-Charalambidis/4IZ268/blob/master/LICENSE)
 
 <img align="left" height="113.176" width="126" top="50" src="http://i67.tinypic.com/2ly64qw.png" border="0">
@@ -19,8 +18,7 @@ This is also my very first webpage created at 2016 and published now. The webpag
 ### Course
 
  - [`4IZ268 - Web Technologies`](http://4iz268.github.io/) stands for the university course of [FIS](https://fis.vse.cz/en/).
- - `Weather-web-application` stands for the semestral application name. 
-  - This application was the 2nd semestral work for this course whereas the first one was a simple static webpage.
+ - This application was the 2nd semestral work for this course whereas the first one was a simple static webpage.
  
 ### Glossary
 

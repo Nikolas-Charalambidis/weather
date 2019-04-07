@@ -2,16 +2,15 @@
 ![CSS-3](https://img.shields.io/badge/CSS-3-blue.svg)
 ![jQuery-3](https://img.shields.io/badge/jQuery-3-blue.svg)
 [![codebeat badge](https://codebeat.co/badges/a60d5166-cfc9-42b0-b886-6267f670096c)](https://codebeat.co/projects/github-com-nicharnet-unib-4iz268-weather-web-application-master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d6a7e87601244174a62512b9a3e7fe30)](https://www.codacy.com/app/NicharNET/UNIB-4IZ268-Weather-web-application?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NicharNET/UNIB-4IZ268-Weather-web-application&amp;utm_campaign=Badge_Grade)
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/NicharNET/UNIB-4IZ268-Weather-web-application/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Nikolas-Charalambidis/4IZ268/blob/master/LICENSE)
 
 <img align="left" height="113.176" width="126" top="50" src="http://i67.tinypic.com/2ly64qw.png" border="0">
 
-# UNIB-4IZ268 Weather web application
+# 4IZ268 Weather web application
 
 This web application localizes your current or searched position, receives the weather data which is being displayed and visualised. It has been developed as a semestral work as a part of the course 4IZ268 Web Technologies.
 
-## [https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application)
+## [https://nikolas-charalambidis.github.io/4IZ268](https://nikolas-charalambidis.github.io/4IZ268)
 
 This is also my very first webpage created at 2016 and published now. The webpage is hosted on GitHub Pages.
 
@@ -47,10 +46,10 @@ The extracted latitude and longitude information is exctracted and passed to the
  - `APPID=e523473ac8b78fc0eb0018a092bc08f5` is my "secret" API key which is required to work. This key should remain secret, however I don't mind to publish it for the educational purposes - feel free to try it out or generate the own key, but don't spam the requests programatically.
 
 ## Subpages 
-- [Locate me](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/index.html) is the main page which localizes your current position and displays the weather information. You don't need to look out the window anymore!
-- [Take a look](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/take-a-look.html) gives you an opportunity to see the current weather in any city in the world (which is available for the Weather API, however it usually refers to the closest bigger one).
-- [My places](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/my-places.html) stores the recently found places with these marked as a favourite ones on the previous subpages.
-- [About](https://nicharnet.github.io/UNIB-4IZ268-Weather-web-application/about.html) offers a bried summary about the web application.
+- [Locate me](https://nikolas-charalambidis.github.io/4IZ268/index.html) is the main page which localizes your current position and displays the weather information. You don't need to look out the window anymore!
+- [Take a look](https://nikolas-charalambidis.github.io/4IZ268/take-a-look.html) gives you an opportunity to see the current weather in any city in the world (which is available for the Weather API, however it usually refers to the closest bigger one).
+- [My places](https://nikolas-charalambidis.github.io/4IZ268/my-places.html) stores the recently found places with these marked as a favourite ones on the previous subpages.
+- [About](https://nikolas-charalambidis.github.io/4IZ268/about.html) offers a bried summary about the web application.
 
 ## Quality check
 

@@ -7,13 +7,15 @@
 
 # 4IZ268 Web Technologies | Weather Application
 
+## ⚠ No longer maintained nor published
+
 This web application localizes your current or searched position, receives the weather data which is being displayed and visualised. It has been developed as a semestral work as a part of the course 4IZ268 Web Technologies.
+
+**Disclaimer:** At some point, the application exceeds the request quota for the [Google Maps API](https://developers.google.com/maps/documentation/).
 
 ## [https://nikolas-charalambidis.github.io/4IZ268](https://nikolas-charalambidis.github.io/4IZ268)
 
 This is also my very first webpage created at 2016 and published now. The webpage is hosted on GitHub Pages.
-
-:warning: At some point, the application exceeds the request quota for the [Google Maps API](https://developers.google.com/maps/documentation/).
 
 ### Course
 

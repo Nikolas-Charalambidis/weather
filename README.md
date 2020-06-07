@@ -3,8 +3,6 @@
 ![jQuery-3](https://img.shields.io/badge/jQuery-3-blue.svg)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Nikolas-Charalambidis/4IZ268/blob/master/LICENSE)
 
-<img align="left" height="113.176" width="126" top="50" src="http://i67.tinypic.com/2ly64qw.png" border="0">
-
 # Weather
 
 ## ⚠ No longer maintained nor published

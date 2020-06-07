@@ -13,7 +13,7 @@ This web application localizes your current or searched position, receives the w
 
 **Disclaimer:** At some point, the application exceeds the request quota for the [Google Maps API](https://developers.google.com/maps/documentation/).
 
-## [https://nikolas-charalambidis.github.io/4IZ268](https://nikolas-charalambidis.github.io/4IZ268)
+## [https://nikolas-charalambidis.github.io/weather](https://nikolas-charalambidis.github.io/weather)
 
 This is also my very first webpage created at 2016 and published now. The webpage is hosted on GitHub Pages.
 
@@ -40,7 +40,7 @@ An AJAX request is sent to the Localization API [`https://ipapi.co/json`](https:
 The extracted latitude and longitude information is exctracted and passed to the weather API with an API Key as an asynchronous request by [`https://api.openweathermap.org/data/2.5/weather?lat=0&lon=0&APPID=e523473ac8b78fc0eb0018a092bc08f5`](https://api.openweathermap.org/data/2.5/weather?lat=0&lon=0&APPID=e523473ac8b78fc0eb0018a092bc08f5) with the following parameters:
 
  - `lat=0` is latitude of `0`
- - `lon=0` is longitude of 0 
+ - `lon=0` is longitude of `0` 
  - `APPID=e523473ac8b78fc0eb0018a092bc08f5` is my "secret" API key which is required to work. This key should remain secret, however I don't mind to publish it for the educational purposes - feel free to try it out or generate the own key, but don't spam the requests programatically.
 
 ## Subpages 

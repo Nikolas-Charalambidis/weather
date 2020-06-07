@@ -5,7 +5,7 @@
 
 <img align="left" height="113.176" width="126" top="50" src="http://i67.tinypic.com/2ly64qw.png" border="0">
 
-# 4IZ268 Web Technologies | Weather Application
+# Weather
 
 ## ⚠ No longer maintained nor published
 
